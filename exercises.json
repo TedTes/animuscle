@@ -1,0 +1,33 @@
+[
+    {
+      "name": "pushup",
+      "duration": 6,
+      "keyframes": [
+        {"frame": 1, "bone": "chest", "location": [0, 0, 0.2]},
+        {"frame": 45, "bone": "chest", "location": [0, 0, 0]},
+        {"frame": 90, "bone": "chest", "location": [0, 0, 0.2]},
+        {"frame": 180, "bone": "chest", "location": [0, 0, 0.2]}
+      ]
+    },
+    {
+      "name": "squat",
+      "duration": 6,
+      "keyframes": [
+        {"frame": 1, "bone": "pelvis", "location": [0, 0, 1]},
+        {"frame": 45, "bone": "pelvis", "location": [0, 0, 0.5]},
+        {"frame": 90, "bone": "pelvis", "location": [0, 0, 1]},
+        {"frame": 180, "bone": "pelvis", "location": [0, 0, 1]}
+      ]
+    },
+    {
+      "name": "3_4_situp",
+      "duration": 6,
+      "keyframes": [
+        {"frame": 1, "bone": "spine", "rotation_euler": [0, 0, 0]},
+        {"frame": 45, "bone": "spine", "rotation_euler": [0.785, 0, 0]},
+        {"frame": 90, "bone": "spine", "rotation_euler": [0, 0, 0]},
+        {"frame": 180, "bone": "spine", "rotation_euler": [0, 0, 0]}
+      ]
+    }
+  ]
+  
